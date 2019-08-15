@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Adicionado descrições, integrantes e URL do projeto.</PackageReleaseNotes>
+    <Description>GeekBurger StoreCatalog Microservice Contract</Description>
+    <Authors>Igor, Luiz, Pedro, Vinicius</Authors>
+    <Company>14Net Fiap</Company>
+    <Product>StoreCatalog</Product>
+    <PackageProjectUrl>https://geekburgerstorecatalogs.azurewebsites.net</PackageProjectUrl>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+
+</Project>
